@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica 1</string>
+    <string name="numero">59178947913</string>
+    <string name="ingresapin">Ingresa tu PIN</string>
+    <string name="cuenta">Usa otra \n <u>cuenta</u></string>
+    <string name="PIn">¿Olvidaste tu \n <u>PIN?</u></string>
+    <string name="acepto">Acepto los <u>Terminos y condiciones</u></string>
+    <string name="iniciar">Iniciar Sesion</string>
+    <string name="ultimo">¿No tienes cuenta Tigo \n Money? \n <u>Unete gratis ahora</u></string>
+</resources>
